@@ -1,0 +1,9 @@
+{
+    "name": "com.farseer.youplayer",
+    "description": "youplayer host",
+    "path": "/your-path/youchrome",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://your-extension's-Id/"
+    ]
+}
